@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\mecaho\mecaho\bin\Debug\mecaho.exe.config
+C:\Users\123\Desktop\mecaho\mecaho\obj\Debug\mecaho.Form1.resources
+C:\Users\123\Desktop\mecaho\mecaho\obj\Debug\mecaho.Resources.resources
+C:\Users\123\Desktop\mecaho\mecaho\obj\Debug\mecaho.vbproj.GenerateResource.Cache
+C:\Users\123\Desktop\mecaho\mecaho\bin\Debug\mecaho.exe
+C:\Users\123\Desktop\mecaho\mecaho\bin\Debug\mecaho.pdb
+C:\Users\123\Desktop\mecaho\mecaho\bin\Debug\mecaho.xml
+C:\Users\123\Desktop\mecaho\mecaho\obj\Debug\mecaho.exe
+C:\Users\123\Desktop\mecaho\mecaho\obj\Debug\mecaho.xml
+C:\Users\123\Desktop\mecaho\mecaho\obj\Debug\mecaho.pdb
